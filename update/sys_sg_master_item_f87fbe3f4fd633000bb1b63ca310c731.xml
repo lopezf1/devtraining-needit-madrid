@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="NeedIt Next Quarter item view">607ff27f4fd633000bb1b63ca310c7d2</item_view>
+        <name>Master Item</name>
+        <screen display_value="NeedIt Next Quarter">e07ff27f4fd633000bb1b63ca310c7d5</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 16:42:14</sys_created_on>
+        <sys_id>f87fbe3f4fd633000bb1b63ca310c731</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_master_item_f87fbe3f4fd633000bb1b63ca310c731</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 16:42:14</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_master_item>
+</record_update>
